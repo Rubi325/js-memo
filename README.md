@@ -9,6 +9,7 @@ practice3<br>
 　制御構造<br>
 　オブジェクト<br>
 practice4<br>
+  関数<br> 
 　クラス<br>
 　非同期プログラミング<br>
 practice5<br>
